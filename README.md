@@ -13,7 +13,7 @@
 
 | $\color{#d480bb}{\textsf{“ ♡ Mail and Extra ”}}$ |
 | :---: |
-| <details><summary><b><img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/b7b2a270-dd61-478f-91f6-3bb082e93b63" /></b></summary><br>[Pain](https://github.com/thatoneskykid) 、 [Meaw](https://github.com/2meowkit) 、[Rin](https://github.com/vatrinyasin) 、[Mash](https://github.com/ENUMAELlSH) 、[Lavie](https://github.com/LAVIEDOTOK) 、[Zj](https://github.com/bastetngeb) 、John & Kuna + others in my following.| 
+| <details><summary><b><img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/b7b2a270-dd61-478f-91f6-3bb082e93b63" /></b></summary><br>[Pain](https://github.com/thatoneskykid)、 [Meaw](https://github.com/2meowkit)、[Rin](https://github.com/vatrinyasin)、[Mash](https://github.com/ENUMAELlSH)、[Lavie](https://github.com/LAVIEDOTOK)、[Zj](https://github.com/bastetngeb)、[Mike](https://github.com/ch3shyre)、Kuna、John & Raya + others in my following.| 
 | <details><summary><b><img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/1772f43f-430e-4ea7-97a5-576cabb8d012" /></b></summary><br>[pt-players](https://github.com/pt-players)、[pt-walk-of-fame](https://github.com/pt-walk-of-fame)、[title-town](https://github.com/title-town)、[pt-hall-of-media](https://github.com/pt-hall-of-media)、 [pt-fashion](https://github.com/pt-fashion)|
 
 <picture>
