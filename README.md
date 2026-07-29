@@ -9,7 +9,7 @@
 
 <img width="735" height="368" alt="Image" src="https://github.com/user-attachments/assets/1f90f2cf-659c-4eea-a2ec-9e56d25a69d4" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=4000&pause=1000&color=DC8ACB&center=true&width=435&lines=%E2%80%9C+I'm+too+lazy+to+make+my+own+widget+typa+thing.+%E2%80%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF82C8&center=true&vCenter=true&width=435&lines=%E2%80%9C+...But+to+bad+for+you!+%E2%80%9D;%E2%80%9C+I'm+anything+but+normal!+%E2%80%9D)](https://git.io/typing-svg)
 
 | $\color{#d480bb}{\textsf{“ ♡ Mail and Extra ”}}$ |
 | :---: |
