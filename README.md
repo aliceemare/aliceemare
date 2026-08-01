@@ -1,3 +1,6 @@
+$\color{#d480bb}{\textsf{ remaking this if i have time }}$
+
+
 <p align="center">
   <img width="240" height="40" alt="Image" src="https://github.com/user-attachments/assets/9144c762-a7cc-4e9f-a42d-5a0f0c1bad5c" />
 </p>
