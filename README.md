@@ -6,7 +6,7 @@
 
 <div align="center"
 
-![](https://komarev.com/ghpvc/?username=aliceemare&color=d480bb&label=Candy&style=plastic)
+![](https://komarev.com/ghpvc/?username=aliceemare&color=FF9DE7&label=Candy&style=plastic)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://cdn.discordapp.com/attachments/1490255018853535887/1533021382353485934/Tak_berjudul1_20260801154223.png?ex=6a6ef8eb&is=6a6da76b&hm=f6fd7208383acd6a1fbb35336158945eff5cfcfc2cb1fce2ba878d7f63f8ff33&" />
