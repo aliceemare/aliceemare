@@ -1,16 +1,18 @@
-$\color{#d480bb}{\textsf{ remaking this if i have time }}$
-
-
-<p align="center">
-  <img width="240" height="40" alt="Image" src="https://github.com/user-attachments/assets/9144c762-a7cc-4e9f-a42d-5a0f0c1bad5c" />
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://cdn.discordapp.com/attachments/1490255018853535887/1533025806392229979/IMG_20260801_161607.png?ex=6a6efd0a&is=6a6dab8a&hm=566478234d40a5d6e416db3c2f7c366e6e14087bdd937ba49b3ce78af24b5d93&" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1490255018853535887/1533025806392229979/IMG_20260801_161607.png?ex=6a6efd0a&is=6a6dab8a&hm=566478234d40a5d6e416db3c2f7c366e6e14087bdd937ba49b3ce78af24b5d93&" />
+  <img alt="border" src="https://cdn.discordapp.com/attachments/1490255018853535887/1533025806392229979/IMG_20260801_161607.png?ex=6a6efd0a&is=6a6dab8a&hm=566478234d40a5d6e416db3c2f7c366e6e14087bdd937ba49b3ce78af24b5d93&" />
+</picture>
 
 <div align="center"
 
 ![](https://komarev.com/ghpvc/?username=aliceemare&color=d480bb&label=Candy&style=plastic)
 
-<img width="735" height="368" alt="Image" src="https://github.com/user-attachments/assets/1f90f2cf-659c-4eea-a2ec-9e56d25a69d4" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://cdn.discordapp.com/attachments/1490255018853535887/1533021382353485934/Tak_berjudul1_20260801154223.png?ex=6a6ef8eb&is=6a6da76b&hm=f6fd7208383acd6a1fbb35336158945eff5cfcfc2cb1fce2ba878d7f63f8ff33&" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1490255018853535887/1533021382353485934/Tak_berjudul1_20260801154223.png?ex=6a6ef8eb&is=6a6da76b&hm=f6fd7208383acd6a1fbb35336158945eff5cfcfc2cb1fce2ba878d7f63f8ff33&" />
+  <img alt="gh user ramudaa" src="https://cdn.discordapp.com/attachments/1490255018853535887/1533021382353485934/Tak_berjudul1_20260801154223.png?ex=6a6ef8eb&is=6a6da76b&hm=f6fd7208383acd6a1fbb35336158945eff5cfcfc2cb1fce2ba878d7f63f8ff33&" />
+</picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF82C8&center=true&vCenter=true&width=435&lines=%E2%80%9C+...But+too+bad+for+you!+%E2%80%9D;%E2%80%9C+I'm+anything+but+normal!+%E2%80%9D)](https://git.io/typing-svg)
 
@@ -25,6 +27,8 @@ $\color{#d480bb}{\textsf{ remaking this if i have time }}$
   <img alt="primary colors gang" src="https://cdn.discordapp.com/attachments/1531274539722346504/1531275099066339468/primecolor.gif?ex=6a689e91&is=6a674d11&hm=8eff98800bda55dd343e8d7a5839d7b9be558a79f232c0a3d18fd8bea5b10162&" />
 </picture>
 
-<p align="center">
-  <img width="240" height="40" alt="Image" src="https://github.com/user-attachments/assets/9144c762-a7cc-4e9f-a42d-5a0f0c1bad5c" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://cdn.discordapp.com/attachments/1490255018853535887/1533025816655695962/IMG_20260801_161626.png?ex=6a6efd0c&is=6a6dab8c&hm=b375f74606ec10b0776ecc128ab6b300741f3c6380d8802fbccc3921069433a3&" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1490255018853535887/1533025816655695962/IMG_20260801_161626.png?ex=6a6efd0c&is=6a6dab8c&hm=b375f74606ec10b0776ecc128ab6b300741f3c6380d8802fbccc3921069433a3&" />
+  <img alt="border" src="https://cdn.discordapp.com/attachments/1490255018853535887/1533025816655695962/IMG_20260801_161626.png?ex=6a6efd0c&is=6a6dab8c&hm=b375f74606ec10b0776ecc128ab6b300741f3c6380d8802fbccc3921069433a3&" />
+</picture>
