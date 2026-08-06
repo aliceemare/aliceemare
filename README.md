@@ -14,8 +14,6 @@
   <img alt="gh user ramudaa" src="https://cdn.discordapp.com/attachments/1490255018853535887/1533021382353485934/Tak_berjudul1_20260801154223.png?ex=6a6ef8eb&is=6a6da76b&hm=f6fd7208383acd6a1fbb35336158945eff5cfcfc2cb1fce2ba878d7f63f8ff33&" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF82C8&center=true&vCenter=true&width=435&lines=%E2%80%9C+...But+too+bad+for+you!+%E2%80%9D;%E2%80%9C+I'm+anything+but+normal!+%E2%80%9D)](https://git.io/typing-svg)
-
 | $\color{#d480bb}{\textsf{“ ♡ Mail and Extra ”}}$ |
 | :---: |
 | <details><summary><b><img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/b7b2a270-dd61-478f-91f6-3bb082e93b63" /></b></summary><br>[Pain](https://github.com/thatoneskykid)、 [Meaw](https://github.com/2meowkit)、[Rin](https://github.com/vatrinyasin)、[Mash](https://github.com/ENUMAELlSH)、[Lavie](https://github.com/LAVIEDOTOK)、[Zj](https://github.com/bastetngeb)、[Mike](https://github.com/ch3shyre)、Kuna、John & Raya + others in my following.| 
