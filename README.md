@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://cdn.discordapp.com/attachments/1490255018853535887/1533025806392229979/IMG_20260801_161607.png?ex=6a6efd0a&is=6a6dab8a&hm=566478234d40a5d6e416db3c2f7c366e6e14087bdd937ba49b3ce78af24b5d93&" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1490255018853535887/1533025806392229979/IMG_20260801_161607.png?ex=6a6efd0a&is=6a6dab8a&hm=566478234d40a5d6e416db3c2f7c366e6e14087bdd937ba49b3ce78af24b5d93&" />
-  <img alt="border" src="https://cdn.discordapp.com/attachments/1490255018853535887/1533025806392229979/IMG_20260801_161607.png?ex=6a6efd0a&is=6a6dab8a&hm=566478234d40a5d6e416db3c2f7c366e6e14087bdd937ba49b3ce78af24b5d93&" />
+  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://files.catbox.moe/0ftad4.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/0ftad4.png" />
+  <img alt="border" src="https://files.catbox.moe/0ftad4.png" />
 </picture>
 
 <div align="center"
@@ -9,9 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=aliceemare&color=FF9DE7&label=Candy&style=plastic)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://cdn.discordapp.com/attachments/1490255018853535887/1533021382353485934/Tak_berjudul1_20260801154223.png?ex=6a6ef8eb&is=6a6da76b&hm=f6fd7208383acd6a1fbb35336158945eff5cfcfc2cb1fce2ba878d7f63f8ff33&" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1490255018853535887/1533021382353485934/Tak_berjudul1_20260801154223.png?ex=6a6ef8eb&is=6a6da76b&hm=f6fd7208383acd6a1fbb35336158945eff5cfcfc2cb1fce2ba878d7f63f8ff33&" />
-  <img alt="gh user ramudaa" src="https://cdn.discordapp.com/attachments/1490255018853535887/1533021382353485934/Tak_berjudul1_20260801154223.png?ex=6a6ef8eb&is=6a6da76b&hm=f6fd7208383acd6a1fbb35336158945eff5cfcfc2cb1fce2ba878d7f63f8ff33&" />
+  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://files.catbox.moe/pvnd1l.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/pvnd1l.png" />
+  <img alt="gh user ramudaa" src="https://files.catbox.moe/pvnd1l.png" />
 </picture>
 
 | $\color{#d480bb}{\textsf{“ ♡ Mail and Extra ”}}$ |
@@ -20,13 +20,13 @@
 | <details><summary><b><img width="20" height="20" alt="Image" src="https://github.com/user-attachments/assets/1772f43f-430e-4ea7-97a5-576cabb8d012" /></b></summary><br> thank you [pt-players](https://github.com/pt-players)、[pt-fashion](https://github.com/pt-fashion)、[pt-walk-of-fame](https://github.com/pt-walk-of-fame)、[title-town](https://github.com/title-town)、[pt-hall-of-media](https://github.com/pt-hall-of-media)、[pt-of-awesomeness](https://github.com/pt-of-awesomeness)、[pt-medals](https://github.com/pt-medals)、[pt-medals2](https://github.com/pt-medals2)、[pt-nominations](https://github.com/pt-nominations)、[ponychievements](https://github.com/ponychievements)、[fans-town](https://github.com/fans-town) !! so greedy🤤✌|
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"srcset="img width="10"https://cdn.discordapp.com/attachments/1531274539722346504/1531275099066339468/primecolor.gif?ex=6a689e91&is=6a674d11&hm=8eff98800bda55dd343e8d7a5839d7b9be558a79f232c0a3d18fd8bea5b10162&" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1531274539722346504/1531275099066339468/primecolor.gif?ex=6a689e91&is=6a674d11&hm=8eff98800bda55dd343e8d7a5839d7b9be558a79f232c0a3d18fd8bea5b10162&" />
-  <img alt="primary colors gang" src="https://cdn.discordapp.com/attachments/1531274539722346504/1531275099066339468/primecolor.gif?ex=6a689e91&is=6a674d11&hm=8eff98800bda55dd343e8d7a5839d7b9be558a79f232c0a3d18fd8bea5b10162&" />
+  <source media="(prefers-color-scheme: dark)"srcset="img width="10"https://files.catbox.moe/vw1zgc.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/vw1zgc.gif" />
+  <img alt="primary colors gang" src="https://files.catbox.moe/vw1zgc.gif" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://cdn.discordapp.com/attachments/1490255018853535887/1533025816655695962/IMG_20260801_161626.png?ex=6a6efd0c&is=6a6dab8c&hm=b375f74606ec10b0776ecc128ab6b300741f3c6380d8802fbccc3921069433a3&" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/1490255018853535887/1533025816655695962/IMG_20260801_161626.png?ex=6a6efd0c&is=6a6dab8c&hm=b375f74606ec10b0776ecc128ab6b300741f3c6380d8802fbccc3921069433a3&" />
-  <img alt="border" src="https://cdn.discordapp.com/attachments/1490255018853535887/1533025816655695962/IMG_20260801_161626.png?ex=6a6efd0c&is=6a6dab8c&hm=b375f74606ec10b0776ecc128ab6b300741f3c6380d8802fbccc3921069433a3&" />
+  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://files.catbox.moe/wr0uft.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/wr0uft.png" />
+  <img alt="border" src="https://files.catbox.moe/wr0uft.png" />
 </picture>
