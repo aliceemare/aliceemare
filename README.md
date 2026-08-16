@@ -9,9 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=aliceemare&color=FF9DE7&label=Candy&style=plastic)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://files.catbox.moe/pvnd1l.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/pvnd1l.png" />
-  <img alt="gh user ramudaa" src="https://files.catbox.moe/pvnd1l.png" />
+  <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://files.catbox.moe/xk9hbf.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://files.catbox.moe/xk9hbf.png" />
+  <img alt="gh user ramudaa" src="https://files.catbox.moe/xk9hbf.png" />
 </picture>
 
 | $\color{#d480bb}{\textsf{“ ♡ Mail and Extra ”}}$ |
