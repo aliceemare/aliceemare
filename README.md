@@ -11,7 +11,7 @@
 ㅤ
 | $\color{#6b42dd}{\textsf{“ ♡ Mail}}$ $\color{#b4d44d}{\textsf{and Extra ”}}$ |
 | :---: |
-| <details><summary><b><img width="20" height="20" alt="Image" src="https://files.catbox.moe/w9t3z6.gif" /></b></summary><br>[Pain](https://github.com/thatoneskykid) ♡、 [Meaw](https://github.com/2meowkit)、[Rin](https://github.com/vatrinyasin)、[Mash](https://github.com/ENUMAELlSH)、[Lavie](https://github.com/LAVIEDOTOK)、[Zj](https://github.com/bastetngeb)、[Mike](https://github.com/ch3shyre)、Kuna & others in my following.. hihi goats esp #kunalings i love u guys♡| 
+| <details><summary><b><img width="20" height="20" alt="Image" src="https://files.catbox.moe/w9t3z6.gif" /></b></summary><br>[Pain](https://github.com/thatoneskykid)、 [Meaw](https://github.com/2meowkit)、[Rin](https://github.com/vatrinyasin)、[Mash](https://github.com/ENUMAELlSH)、[Lavie](https://github.com/LAVIEDOTOK)、[Zj](https://github.com/bastetngeb)、[Mike](https://github.com/ch3shyre)、Kuna & others in my following.. hihi goats esp #kunalings i love u guys♡| 
 | <details><summary><b><img width="20" height="20" alt="Image" src="https://files.catbox.moe/s72dia.gif" /></b></summary><br> @everytown ramuda amemura, too lazy to tag individually sorry. also check my links okok|
 
 <picture>
