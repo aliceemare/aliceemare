@@ -1,6 +1,6 @@
 <div align="center"
 
-![](https://komarev.com/ghpvc/?username=aliceemare&color=573299&label=paragon&style=plastic)
+![](https://komarev.com/ghpvc/?username=aliceemare&color=573299&label=paragon&style=plastic&base=10000)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"srcset="img width="1000"https://files.catbox.moe/c72ji1.png" />
